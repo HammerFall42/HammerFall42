@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 <a href="https://github.com/HammerFall42">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=HammerFall42&show_icons=true&count_private=true&theme=maroongold&include_all_commits=true" alt="HammerFall's github stats" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HammerFall42&langs_count=10&count_private=true&layout=compact&theme=maroongold" alt="HammerFall's github top languages"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=HammerFall42&show_icons=true&count_private=true&theme=maroongold&include_all_commits=true"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HammerFall42&langs_count=10&count_private=true&layout=compact&theme=maroongold"/>
 </a>
 
 <!--
