@@ -2,7 +2,7 @@
 
 <a href="https://github.com/HammerFall42">
     <img src="https://github-readme-stats.vercel.app/api?username=HammerFall42&show_icons=true&count_private=true&theme=maroongold&include_all_commits=true"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HammerFall42&langs_count=10&count_private=true&layout=compact&theme=maroongold"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HammerFall42&count_private=true&theme=maroongold"/>
 </a>
 
 <!--
